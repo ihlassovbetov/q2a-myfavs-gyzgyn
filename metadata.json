@@ -1,0 +1,12 @@
+{
+	"name": "My Favs Gyzgyn",
+	"description": "Widgets for tag/category/user/question favorites",
+	"uri": "https://www.e-dostluk.com/q2a-demo/",
+	"version": "1.0",
+	"date": "2018-11-13",
+	"author": "Yhlas Sovbetov",
+	"author_uri": "https://gyzgyn.e-dostluk.com/agza/DrWaltBishop",
+	"license": "GPLv2",
+	"min_q2a": "1.7.5",
+	"load_order": "after_db_init"
+}

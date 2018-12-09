@@ -1,16 +1,18 @@
 <?php
 
 /*
-	"name": "My Favs Gyzgyn",
-	"description": "Widgets for tag/category/user/question favorites",
-	"uri": "https://www.e-dostluk.com/q2a-demo/",
-	"version": "1.0",
-	"date": "2018-11-13",
-	"author": "Yhlas Sovbetov",
-	"author_uri": "https://gyzgyn.e-dostluk.com/agza/DrWaltBishop",
-	"license": "GPLv2",
-	"min_q2a": "1.7.5",
-	"load_order": "after_db_init"
+	Plugin Name: My Favs Gyzgyn 
+	Plugin Description: Widgets for tag/category/user/question favorites. 
+	Plugin URI: https://www.e-dostluk.com
+	Plugin Version: 1.0
+	Plugin Date: 13/11/2018
+	Plugin Author: Yhlas Sovbetov
+	Plugin Author URI: https://gyzgyn.e-dostluk.com/agza/DrWaltBishop
+	Plugin License: Copylefted.
+	Plugin Tested on: Q2A 1.7.5
+
+	More about this license: http://www.gnu.org/licenses/gpl.html
+	
 */
 
 
